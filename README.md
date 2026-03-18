@@ -33,7 +33,7 @@ Part of the [SlateDust](https://github.com/l0yst/slatedust) theme project.
 ```
 ## NvChad
 
-Copy `extras/nvchad/slatedust.lua` to `~/.config/nvim/lua/themes/slatedust.lua`
+Copy `extra/nvchad/slatedust.lua` to `~/.config/nvim/lua/themes/`
 
 Then in `chadrc.lua`:
 ```lua
@@ -41,6 +41,8 @@ M.base46 = {
     theme = "slatedust",
 }
 ```
+
+> If you found a bug or want to improve something? [open an issue](https://github.com/l0yst/slatedust.nvim/issues) — feedback is appreciated.
 
 ## License
 
